@@ -1,2 +1,7 @@
 # QuoteGen
-QuoteGen is a simple HTML,CSS,JS project for learning fundamentals.
+
+QuoteGen is a simple **JS** project for learning some fundamentals.
+
+---
+
+![alt text](image.jpg)
