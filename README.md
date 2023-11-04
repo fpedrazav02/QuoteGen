@@ -8,7 +8,7 @@ QuoteGen is a simple **JS** project for learning some fundamentals.
 
 ---
 
-## [Test the site project now!](https://fpedrazav02.github.io/QuoteGen/)
+## [Checkout QuoteGen here!](https://fpedrazav02.github.io/QuoteGen/)
 
 ## Learned Fundamentals
 
